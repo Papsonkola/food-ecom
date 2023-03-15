@@ -1,0 +1,77 @@
+body{
+    overflow-x: hidden;
+}
+
+h2{
+    text-align: center;
+    width: 100%;
+    padding: 4rem 0;
+    font-size: 60px;
+    font-family: cursive;
+}
+
+.left h3{
+    font-size: 50px;
+    text-decoration: underline;
+    margin-bottom: 3rem;
+    text-align: center;
+    width: 100%;
+}
+
+.left ul{
+    list-style: none;
+}
+
+.left button{
+    background-color: rgb(37, 122, 37);
+    color: rgb(211, 210, 155);
+    font-size: 18px;
+    /* width: 13rem; */
+    width: 100%;
+    height: 5rem; 
+    margin-bottom: 4rem;
+}
+
+.left button:hover{
+    background-color: black;
+}
+
+
+.card{
+    width: 100%;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color:  rgb(37, 122, 37);
+    color: rgb(211, 210, 155);
+    margin-left: 5rem;
+    margin-bottom: 3rem;
+}
+
+/* .card{
+    text-align: center;
+    background-color:  rgb(37, 122, 37);
+    color: rgb(211, 210, 155);
+    margin-bottom: 2rem;
+    
+} */
+
+.img{
+    height: 300px;
+}
+
+.titlee{
+    font-size: 2rem;
+}
+
+.button{
+    background-color: black;
+    color: rgb(211, 210, 155);
+    border: rgb(113, 182, 113);
+}
+
+.button:hover{
+    background-color: rgb(211, 210, 155);
+    color: black;
+}

@@ -1,0 +1,12 @@
+form{
+
+    margin: auto;
+    justify-content: center;
+}
+.conleft{
+    padding: 100px 0 0 100px;
+}
+.conleft h3{
+    font-family: cursive;
+    font-size: 60px;
+}
